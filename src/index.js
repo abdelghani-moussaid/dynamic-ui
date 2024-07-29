@@ -1,5 +1,5 @@
 import "./style.css";
-import toggleDropdown from "./modules/toggleDropdown.js";
+import toggleDropdown from "am-toggle-dropdown";
 
 const dropdown = document.querySelector(".dropdown");
 const menu = document.querySelector(".menu");
